@@ -1,18 +1,18 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/volumes/4tb/hugo_file/e-reading",
+	"sourceRoot": "/Volumes/4TB/hugo_file/e-reading",
 	"sources": [
 		"themes/hugo-clarity/assets/sass/main.sass",
-		"../../../../volumes/4tb/hugo_file/e-reading/themes/hugo-clarity/assets/sass/_variables.sass",
-		"../../../../volumes/4tb/hugo_file/e-reading/themes/hugo-clarity/assets/sass/_override.sass",
-		"../../../../volumes/4tb/hugo_file/e-reading/themes/hugo-clarity/assets/sass/_fonts.sass",
-		"../../../../volumes/4tb/hugo_file/e-reading/themes/hugo-clarity/assets/sass/_base.sass",
-		"../../../../volumes/4tb/hugo_file/e-reading/themes/hugo-clarity/assets/sass/_components.sass",
-		"../../../../volumes/4tb/hugo_file/e-reading/themes/hugo-clarity/assets/sass/_utils.sass",
-		"../../../../volumes/4tb/hugo_file/e-reading/themes/hugo-clarity/assets/sass/_mobile.sass",
-		"../../../../volumes/4tb/hugo_file/e-reading/themes/hugo-clarity/assets/sass/_syntax.sass",
-		"../../../../volumes/4tb/hugo_file/e-reading/themes/hugo-clarity/assets/sass/_custom.sass"
+		"../../hugo_file/e-reading/themes/hugo-clarity/assets/sass/_variables.sass",
+		"../../hugo_file/e-reading/themes/hugo-clarity/assets/sass/_override.sass",
+		"../../hugo_file/e-reading/themes/hugo-clarity/assets/sass/_fonts.sass",
+		"../../hugo_file/e-reading/themes/hugo-clarity/assets/sass/_base.sass",
+		"../../hugo_file/e-reading/themes/hugo-clarity/assets/sass/_components.sass",
+		"../../hugo_file/e-reading/themes/hugo-clarity/assets/sass/_utils.sass",
+		"../../hugo_file/e-reading/themes/hugo-clarity/assets/sass/_mobile.sass",
+		"../../hugo_file/e-reading/themes/hugo-clarity/assets/sass/_syntax.sass",
+		"../../hugo_file/e-reading/themes/hugo-clarity/assets/sass/_custom.sass"
 	],
 	"sourcesContent": [
 		"$baseURL: 'https://muse-101.github.io/e-reading/';\n$fontsPath: '../fonts/';\n$imagesPath: '../images/';\n$iconsPath: '../icons/';\n@import 'variables';\n@import 'override';\n@import 'fonts';\n@import 'base';\n@import 'components';\n@import 'utils';\n@import 'mobile';\n@import 'syntax';\n@import 'custom';\n",

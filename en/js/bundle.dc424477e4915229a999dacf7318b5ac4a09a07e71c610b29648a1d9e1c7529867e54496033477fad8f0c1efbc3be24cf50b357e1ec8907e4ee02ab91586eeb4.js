@@ -10,7 +10,7 @@ const imageAltClass = 'img_alt';
 
 
 const defaultSiteLanguage = 'zh-tw';
-const baseURL = 'http://localhost:1313/e-reading/';
+const baseURL = 'https://muse-101.github.io/e-reading/';
 const searchFieldClass = '.search_field';
 const searchClass = '.search';
 const goBackClass = 'button_back';
